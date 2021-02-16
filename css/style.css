@@ -193,7 +193,7 @@ a:active {
     2. DOCUMENT STYLES
     ========================================================================= */
 body {
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 13px;
     line-height: 22px;
     color: #777;
@@ -217,7 +217,7 @@ p,
 a,
 span {
     color: #777;
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 22px;
 }
 p {
